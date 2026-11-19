@@ -1,6 +1,6 @@
 # Análisis de ventas por tienda y producto (Excel + Power Query)
 
-![DASHBORAD](DASHBORAD.png)
+![DASHBOARD](DASHBOARD.png)
 
 ## Problema
 Analizar las ventas de agosto de 7 tiendas en 6 países para saber qué
